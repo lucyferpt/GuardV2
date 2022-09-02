@@ -5,7 +5,7 @@ Guard V2 is different, now you speak.. Guard does!
 
 For visualization of commands GuardWV is the recommended, for better experience, Guard NV will run in the background.
 
-You can output commands such as: 
+You can output commands such as: <br>
 Delay; <br>
 Wait; <br>
 Run Recommendation; <br>
