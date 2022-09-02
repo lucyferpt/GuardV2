@@ -6,21 +6,22 @@ Guard V2 is different, now you speak.. Guard does!
 For visualization of commands GuardWV is the recommended, for better experience, Guard NV will run in the background.
 
 You can output commands such as: 
-Delay;
-Wait; 
-Run Recommendation; 
-Run Prediction; 
-Run Protection; 
-Run Privacy ;
-Amuse Me;
-Holy Grail;
-Tetris music;
-Whats the time; 
-Surprise;
-Exit;
+Delay; <br>
+Wait; <br>
+Run Recommendation; <br>
+Run Prediction; <br>
+Run Protection; <br>
+Run Privacy;<br>
+Amuse Me;<br>
+Holy Grail;<br>
+Tetris music;<br>
+Whats the time; <br>
+Surprise;<br>
+Exit;<br>
 & a few more.
+<br>
 
-**For Linux only**
+**For Linux only**<br>
 Close Ports & Update System
 
 
