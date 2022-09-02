@@ -40,7 +40,7 @@ Have your graphics driver alongside with Guard OS in a USB Drive, install graphi
 
    # For Linux
 
-   It will set rules for a Granny use type of OS, while there are 65535 open ports usually with Guard only 7 stay up.
+   It will set rules for a Granny use type of OS, while there are 65535 open ports usually with Guard only 8 stay up.
    That, and it will download & update some functionalities meant to protect you from brute force.
    
    -UPDATE-
