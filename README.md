@@ -1,6 +1,6 @@
 # GuardV2 has launched!
 
-# I hope you have a microphone.
+# I hope you have a microphone..
 Guard V2 is different, now you speak.. Guard does!
 
 For visualization of commands GuardWV is the recommended, for better experience, Guard NV will run in the background.
